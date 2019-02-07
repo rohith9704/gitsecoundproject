@@ -1,3 +1,4 @@
 username
 username
 browser
+firefox
